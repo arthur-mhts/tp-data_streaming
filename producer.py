@@ -10,7 +10,7 @@ import time
 API_KEY = '68a331bbd87eefddf393ce4d32db7509'
 
 # TODO : Ajouter deux autres villes de votre choix pour atteindre 5 villes
-CITIES = ['Paris', 'London', 'Tokyo']  # Exemple : Ajoutez ici vos villes
+CITIES = ['Paris', 'London', 'Tokyo', 'Sydney','Budapest']  # Exemple : Ajoutez ici vos villes
 
 # TODO : Remplacez par le nom du topic Kafka utilisé dans votre projet
 KAFKA_TOPIC = 'tp-meteo'
